@@ -34,12 +34,7 @@ This is a full-stack blogging application that allows users to register, create 
 |       |-- authRoutes.js
 |       |-- blogRoutes.js
 |       |-- commentRoutes.js
-|   |-- /services
-|       |-- authService.js
-|       |-- blogService.js
-|       |-- commentService.js
-|   |-- /utils
-|       |-- validation.js
+|   
 |-- index.js
 |-- config.js
 |-- /node_modules
